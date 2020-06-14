@@ -1,0 +1,10 @@
+*
+!*/
+!.gitignore
+
+!*.py
+!*.md
+!*.sh
+!*.txt
+
+venv
