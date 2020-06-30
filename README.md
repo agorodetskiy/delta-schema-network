@@ -2,8 +2,6 @@
 
 Model for learning environment dynamics as logic relations, predicting future states and planning actions to reach reward.
 
-Code for paper (published soon).
-
 ### How to try it
 
 `pip install -r requirements.txt`
