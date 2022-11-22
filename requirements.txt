@@ -8,7 +8,7 @@ kiwisolver==1.2.0
 matplotlib==3.1.2
 mip==1.8.1
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==9.3.0
 pycparser==2.20
 pygame==1.9.6
 pyglet==1.5.4
